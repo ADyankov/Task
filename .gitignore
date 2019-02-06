@@ -22,3 +22,21 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 TcpServer/target/,TcpServer/.idea/,TcpClient/target/,TcpClient/.idea/
+TcpServer/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+TcpServer/target/maven-archiver/pom.properties
+TcpServer/.idea/misc.xml
+TcpServer/.idea/compiler.xml
+TcpClient/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+TcpClient/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+TcpClient/.idea/modules.xml
+TcpClient/.idea/compiler.xml
+TcpClient/.idea/.name
+TcpServer/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+TcpServer/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+TcpServer/.idea/workspace.xml
+TcpServer/.idea/modules.xml
+TcpServer/.idea/.name
+TcpClient/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+TcpClient/target/maven-archiver/pom.properties
+TcpClient/.idea/workspace.xml
+TcpClient/.idea/misc.xml
