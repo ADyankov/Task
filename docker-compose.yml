@@ -1,0 +1,13 @@
+version: "3"
+services:
+  server:
+    build: ./TcpServer
+    image: tcp_server
+    environment:
+      - PORT=6789
+  client:
+    build: ./TcpClient
+    image: tcp_client
+    environment:
+      - PORT=6789
+      - HOST=server
